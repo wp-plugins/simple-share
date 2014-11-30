@@ -24,7 +24,7 @@ You can place share buttons just activating this plugin.
 * simple_share_mobile_footer - Filter the footer buttons on mobile.
 * simple_share_style - Filter the css.
 
-= Placing share buttons in the footer.
+= Placing share buttons in the footer. =
 
 ```
 add_filter( 'simple_share_the_content', function( $content, $share, $orig ){
