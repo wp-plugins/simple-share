@@ -26,11 +26,11 @@ You can place share buttons just activating this plugin.
 
 = Placing share buttons in the footer. =
 
-```
+`
 add_filter( 'simple_share_the_content', function( $content, $share, $orig ){
     return $share. $orig . $share;
 }, 10, 3 );
-```
+`
 
 = Other Notes =
 
