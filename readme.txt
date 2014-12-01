@@ -3,7 +3,7 @@ Contributors: miyauchi, hissy
 Tags: share, social, twitter, facebook, hatena, google
 Requires at least: 4.0
 Tested up to: 4.0
-Stable tag: 0.7.3
+Stable tag: 0.8.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -54,6 +54,11 @@ If you would have conflicts with other plugins you can stop JavaScripts in the f
 2. Share buttons for Mobile.
 
 == Changelog ==
+
+= 0.8.0 =
+
+* Fix always fire scripts in the footer.
+* https://github.com/miya0001/simple-share/compare/0.7.0...0.8.0
 
 = 0.7.0 =
 
